@@ -36,5 +36,6 @@ Star UML
 ![OUTPUT](./os6.png)
 ## DEPLOYMENT DIAGRAM:
 ![OUTPUT](./os7.png)
+
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
