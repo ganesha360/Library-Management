@@ -24,18 +24,18 @@ Star UML
 # UML Diagrams:
 ## USE CASE DIAGRAM:
 ![output](./os1.png)
-## ACTIVITY DIAGRAM:
-![output](./os2.png)
 ## CLASS DIAGRAM:
-![output](./os3.png)
-## SEQUENCE DIAGRAM:
+![output](./os2.jpeg)
+## ACTIVITY DIAGRAM:
+![output](./se3.png)
+## COMMUNICATION DIAGRAM:
 ![output](./os4.png)
-## COLLABORATION DIAGRAM:
-![output](./os5.png)
-## STATE CHART DIAGRAM:
-![output](./os6.png)
-## DEPLOYMENT DIAGRAM:
-![output](./os7.png)
+## SEQUENCE DIAGRAM:
+![output](./os5.jpeg)
+## PACKAGE DIAGRAM:
+![output](./os6.jpeg)
+## STAECHART DIAGRAM:
+![output](./os3.png)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
