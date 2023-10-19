@@ -21,10 +21,12 @@ done.
 In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
+```
 # UML Diagrams:
-Developed By: Ganesh R
-Reg No: 212222240029
+## Developed By: Ganesh R
+## Reg No: 212222240029
 ## USE CASE DIAGRAM:
+```
 ![output](./os1.png)
 ## CLASS DIAGRAM:
 ![output](./os2.jpeg)
